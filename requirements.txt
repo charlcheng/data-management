@@ -1,0 +1,7 @@
+Flask==2.1.1
+python-dotenv==0.20.0
+flask-wtf==1.0.1
+flask-bootstrap==3.3.7.1
+elasticsearch == 8.1.2
+elasticsearch_dsl == 7.4.0
+psycopg2-binary==2.9.3
