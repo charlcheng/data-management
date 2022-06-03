@@ -1,0 +1,95 @@
+{% extends 'bootstrap/base.html' %}
+{% import 'bootstrap/wtf.html' as wtf %}
+
+{% block title %}
+Reference System
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <h1>Reference System</h1>
+        <p>Please enter a street address (ex. 42nd St) or zipcode (5-digit). </p>
+        <div class="row">
+            <div class="col-md-4">
+                {{ wtf.quick_form(form) }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <hr>
+                <h4> Recommendations </h4>
+
+                {% if search_results %}
+                <table id = "normal" class="table table-hover">
+                    <caption> Top 10 Nearby Places</caption>
+                        <tr>
+                            <th>Name</th>
+                            <th>Location</th>
+                            <th>Rating</th>
+                        </tr>
+                        {% for i in search_results %}
+                        <tr>
+                            <td>{{ i['NAME'] }}</td>
+                            <td>{{ i['ADDRESS'] }}</td>
+                            <td>{{ i['RATING'] }}</td>       
+                        </tr>
+                        {% endfor %} 
+                    </table>
+                {% else %}
+                    <p>No nearby place found.</p>
+                {% endif %}
+
+                {% if search_results_rest %}
+                <table id = "rest" class="table table-hover">
+                <table class="table table-striped">
+                    <caption> Top 10 Nearby Places</caption>
+                        <tr>
+                            <th>Name</th>
+                            <th>Location</th>
+                            <th>Rating</th>
+                            <th>Avg_score</th>
+                            <th>Category</th>
+                        </tr>
+                        {% for i in search_results_rest %}
+                        <tr>
+                            <td>{{ i['name'] }}</td>
+                            <td>{{ i['location']['display_address'] }}</td>
+                            <td>{{ i['rating'] }}</td>   
+                            <td>{{ i['average_score'] }}</td>  
+                            <td>{{ i['category'] }}</td>      
+                        </tr>
+                        {% endfor %} 
+                    </table>
+                {% else %}
+                    <p>No nearby place found.</p>
+                {% endif %}
+
+                {% if search_results_theater %}
+                <table id = "theater" class="table table-hover">
+                <table class="table table-striped">
+                    <caption> Recommand Nearby Places</caption>
+                        <tr>
+                            <th>Name</th>
+                            <th>Location</th>
+                            <th>Tel</th>
+                            <th>Website</th>
+                        </tr>
+                        {% for i in search_results_theater %}
+                        <tr>
+                            <td>{{ i['NAME'] }}</td>
+                            <td>{{ i['ADDRESS1'] }}</td>
+                            <td>{{ i['TEL'] }}</td>   
+                            <td>{{ i['URL'] }}</td>       
+                        </tr>
+                        {% endfor %} 
+                    </table>
+                {% else %}
+                    <p>No nearby place found.</p>
+                {% endif %}                
+
+                
+
+            </div>
+        </div>
+    </div>
+{% endblock %}

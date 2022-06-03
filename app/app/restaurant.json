@@ -1,0 +1,3566 @@
+[
+  {
+    "name": "37 Xiang Seafood Hot Pot Restaurant",
+    "location": {
+      "display_address": "135-21 A, 37th Avenue, Queens, NY 11354"
+    },
+    "rating": 3.116240310077519,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Aburiya Kinnosuke",
+    "location": {
+      "display_address": "213 E 45th St, New York, NY 10017"
+    },
+    "rating": 3.564728682170543,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Ai Ki Ya",
+    "location": {
+      "display_address": "41 W 33rd st, ny, ny, 10001"
+    },
+    "rating": 12.252480620155039,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Aoi Kichen",
+    "location": {
+      "display_address": "320 E 6th St, New York"
+    },
+    "rating": 1.2146511627906977,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Atera",
+    "location": {
+      "display_address": "77 Worth St, New York, NY 10013"
+    },
+    "rating": 2.601550387596899,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Atomix",
+    "location": {
+      "display_address": "104 E 30th St, New York, NY 10016"
+    },
+    "rating": 1.7482558139534885,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Bar Moga",
+    "location": {
+      "display_address": "128 W Houston St, New York, NY 10012"
+    },
+    "rating": 3.085513565891473,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Beat Mazesoba",
+    "location": {
+      "display_address": "161-23 Crocheron Ave, Queens, NY 11358"
+    },
+    "rating": 9.797858527131783,
+    "average_score": 4.720448731116133,
+    "category": "japanese"
+  },
+  {
+    "name": "Blue Ribbon Sushi Bar - Rock Center",
+    "location": {
+      "display_address": "30 Rockefeller Plaza, Concourse Level, New York, 10112"
+    },
+    "rating": 1.2836434108527133,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Blue Ribbon Sushi Izakaya",
+    "location": {
+      "display_address": "187 Orchard St, New York, NY 10002"
+    },
+    "rating": 4.900600775193798,
+    "average_score": 4.739405866366789,
+    "category": "japanese"
+  },
+  {
+    "name": "Bondst",
+    "location": {
+      "display_address": "6 Bond St, New York, NY 10012, United States"
+    },
+    "rating": 1.5479166666666666,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Cha-An",
+    "location": {
+      "display_address": "230 E 9th St 2nd FL, New York, NY 10003"
+    },
+    "rating": 4.1438953488372094,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Characters KTV & Sushi",
+    "location": {
+      "display_address": "6117 20th AVE, Brooklyn NY 11204"
+    },
+    "rating": 3.7267635658914724,
+    "average_score": 3.408141925421806,
+    "category": "japanese"
+  },
+  {
+    "name": "Chef\u2019s Table at Brooklyn Fare",
+    "location": {
+      "display_address": "431 W 37th St, New York, NY 10018"
+    },
+    "rating": 1.3235465116279068,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "chelsea market",
+    "location": {
+      "display_address": "75 9th Ave, New York, NY 10011"
+    },
+    "rating": 1.6086821705426357,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Curry-ya",
+    "location": {
+      "display_address": "218 E 10th St, New York, NY 10003"
+    },
+    "rating": 4.561918604651163,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "Curry-ya / Rai Rai Ken",
+    "location": {
+      "display_address": "218 E 10th St"
+    },
+    "rating": 3.4440697674418606,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Dainobu",
+    "location": {
+      "display_address": "498 6th Ave, New York, NY 10011"
+    },
+    "rating": 2.58,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Davelle",
+    "location": {
+      "display_address": "102 Suffolk St"
+    },
+    "rating": 6.232218992248063,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "DomoDomo",
+    "location": {
+      "display_address": "140 W Houston St, New York, NY 10012"
+    },
+    "rating": 16.504127906976745,
+    "average_score": 4.2635223085549505,
+    "category": "japanese"
+  },
+  {
+    "name": "DOMODOMO New York",
+    "location": {
+      "display_address": "140 W Houston St, New York, NY 10012"
+    },
+    "rating": 3.735174418604651,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "DOUSKA",
+    "location": {
+      "display_address": "63 Delancey St, New York NY 10002"
+    },
+    "rating": 4.012693798449612,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Dozo Omakase",
+    "location": {
+      "display_address": "74 5th Ave\uff0cNew York\uff0cNY"
+    },
+    "rating": 4.063517441860465,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Dozo Sushi",
+    "location": {
+      "display_address": "74 5th Ave\uff0cNew York\uff0cNY"
+    },
+    "rating": 2.9198643410852716,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Dr. Clark",
+    "location": {
+      "display_address": "104 Bayard St, ny, ny, 10013"
+    },
+    "rating": 8.570978682170542,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "E.A.K. IZAKAYA",
+    "location": {
+      "display_address": "360 W 46th St, New York, NY 10036"
+    },
+    "rating": 5.320203488372093,
+    "average_score": 3.0000000000000004,
+    "category": "japanese"
+  },
+  {
+    "name": "EN Japanese Brasserie",
+    "location": {
+      "display_address": "435 Hudson St, New York, NY 10014"
+    },
+    "rating": 3.803158914728682,
+    "average_score": 3.2406327922453224,
+    "category": "japanese"
+  },
+  {
+    "name": "Esora Omakase",
+    "location": {
+      "display_address": NaN
+    },
+    "rating": 3.430610465116279,
+    "average_score": 4.461345564978515,
+    "category": "japanese"
+  },
+  {
+    "name": "Ginza Onodera",
+    "location": {
+      "display_address": "461 5th Ave, New York, NY 10017"
+    },
+    "rating": 1.6236434108527131,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Gohan",
+    "location": {
+      "display_address": "533 86th St, Brooklyn, NY 11209"
+    },
+    "rating": 2.099728682170543,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Gohan Sushi",
+    "location": {
+      "display_address": "533 86th St, Brooklyn, NY 11209"
+    },
+    "rating": 3.2349806201550386,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Gorilla Curry",
+    "location": {
+      "display_address": "74 5th Avenue\uff0cNew York\uff0cNY\uff0c10011"
+    },
+    "rating": 1.3794961240310077,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Hansang",
+    "location": {
+      "display_address": "520 Bergen Blvd, Palisades Park, NJ 07650"
+    },
+    "rating": 3.7616279069767438,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Harbs SoHo",
+    "location": {
+      "display_address": "465 W Broadway, New York, NY 10012"
+    },
+    "rating": 2.7371511627906977,
+    "average_score": 3.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Hasaki",
+    "location": {
+      "display_address": "210 E 9th St, New York, NY 10003"
+    },
+    "rating": 1.4677906976744186,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Hatsuhana",
+    "location": {
+      "display_address": "17 E 48th St, New York, NY 10017"
+    },
+    "rating": 3.4759689922480623,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Hirohisa",
+    "location": {
+      "display_address": "73 Thompson St, New York, NY 10012"
+    },
+    "rating": 11.492916666666668,
+    "average_score": 4.541924193338389,
+    "category": "japanese"
+  },
+  {
+    "name": "hiyake omakase",
+    "location": {
+      "display_address": "135 bowery street"
+    },
+    "rating": 9.911288759689922,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Hortus NYC",
+    "location": {
+      "display_address": "271 5th Ave, New York, NY 10016"
+    },
+    "rating": 3.062170542635659,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Icca",
+    "location": {
+      "display_address": "20 Warren St, New York, NY 10007"
+    },
+    "rating": 8.107315891472869,
+    "average_score": 4.417036215816704,
+    "category": "japanese"
+  },
+  {
+    "name": "Ichiran",
+    "location": {
+      "display_address": "152 W 49th St, New York, NY 10020"
+    },
+    "rating": 1.7705813953488372,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "ICHIRAN Ramen",
+    "location": {
+      "display_address": "132 W 31st St, New York, NY 10001"
+    },
+    "rating": 7.09360465116279,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Ikebana Zen",
+    "location": {
+      "display_address": "401 W 53rd St, New York, NY 10019"
+    },
+    "rating": 0.818875968992248,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Iki Modern Japanese Cuisine",
+    "location": {
+      "display_address": "133-42 39th Ave Flushing, NY"
+    },
+    "rating": 0.4653100775193798,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Inase Sushi",
+    "location": {
+      "display_address": "1586 1st Ave\uff0cNew York\uff0cNY\uff0c10028"
+    },
+    "rating": 1.7980135658914729,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "ISE",
+    "location": {
+      "display_address": "63 Cooper Sq, New York, NY 10003"
+    },
+    "rating": 2.9933720930232557,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Ivan Ramen",
+    "location": {
+      "display_address": "25 Clinton St, New York, NY 10002"
+    },
+    "rating": 2.7371511627906977,
+    "average_score": 3.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Izakaya Fuku",
+    "location": {
+      "display_address": "71-28 Roosevelt Ave, Queens, NY 11372"
+    },
+    "rating": 3.677422480620155,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Izakaya MEW",
+    "location": {
+      "display_address": "53 W 35th St, New York, NY 10001"
+    },
+    "rating": 4.650329457364341,
+    "average_score": 4.693673164004812,
+    "category": "japanese"
+  },
+  {
+    "name": "izakaya toribar",
+    "location": {
+      "display_address": "164 E 56th St, New York, NY 10022"
+    },
+    "rating": 3.468217054263566,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Izayaka Mew",
+    "location": {
+      "display_address": "146-13 Northern Blvd, Flushing, NY 11354"
+    },
+    "rating": 3.5301841085271315,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Jukai",
+    "location": {
+      "display_address": "237 E 53rd St, New York, NY 10022"
+    },
+    "rating": 4.139496124031008,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Jungsik",
+    "location": {
+      "display_address": "2 Harrison St, New York, NY 10013"
+    },
+    "rating": 0.5784883720930232,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kaikagetsu",
+    "location": {
+      "display_address": "162 Orchard St, New York, NY 10002"
+    },
+    "rating": 3.9168992248062016,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kaikagetsu NYC",
+    "location": {
+      "display_address": "162 Orchard St, New York, NY 10002"
+    },
+    "rating": 4.394331395348837,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kaiseki Room by Yamada",
+    "location": {
+      "display_address": "145 W 53rd St, New York, NY 10019"
+    },
+    "rating": 12.737674418604652,
+    "average_score": 4.054094563712232,
+    "category": "japanese"
+  },
+  {
+    "name": "Kaito Sushi Seal Beach",
+    "location": {
+      "display_address": "210 Main St # 6318, Seal Beach, CA 90740"
+    },
+    "rating": 1.033187984496124,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kajitsu",
+    "location": {
+      "display_address": "125 E 39th Street, New York, NY 10016"
+    },
+    "rating": 5.614612403100775,
+    "average_score": 4.494268029722477,
+    "category": "japanese"
+  },
+  {
+    "name": "Kakurega Sushi",
+    "location": {
+      "display_address": "133-44 37th Avenue, Flushing, NY 11354"
+    },
+    "rating": 4.9952131782945735,
+    "average_score": 4.594159113796576,
+    "category": "japanese"
+  },
+  {
+    "name": "Kame",
+    "location": {
+      "display_address": "330 8th Ave, New York, NY 10001"
+    },
+    "rating": 10.49903100775194,
+    "average_score": 4.671849465981952,
+    "category": "japanese"
+  },
+  {
+    "name": "Kanoyama",
+    "location": {
+      "display_address": "175 2nd Ave, New York, NY 10003"
+    },
+    "rating": 3.7992732558139535,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kanoyama omakase",
+    "location": {
+      "display_address": "175 2nd Ave, New York, NY 10003"
+    },
+    "rating": 1.0105038759689922,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "KAORU",
+    "location": {
+      "display_address": "306 E 46th St, New York, NY 10017"
+    },
+    "rating": 5.4871317829457364,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kappo Sono",
+    "location": {
+      "display_address": "177 Ludlow St, New York, NY 10002, United States"
+    },
+    "rating": 3.204457364341085,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Katsu Hama",
+    "location": {
+      "display_address": "11 E 47th St, New York, NY 10017"
+    },
+    "rating": 1.772751937984496,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kikoo Sushi",
+    "location": {
+      "display_address": "141 1st Ave., New York, NY 10003"
+    },
+    "rating": 1.2663178294573643,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kimura",
+    "location": {
+      "display_address": "31 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 13.716986434108527,
+    "average_score": 4.013726012793177,
+    "category": "japanese"
+  },
+  {
+    "name": "Kintsugi",
+    "location": {
+      "display_address": "28 Grand St, New York, NY 10013"
+    },
+    "rating": 12.026996124031008,
+    "average_score": 4.083211337849085,
+    "category": "japanese"
+  },
+  {
+    "name": "Kissaki Sushi",
+    "location": {
+      "display_address": "319 Bowery\uff0cNew York\uff0cNY\uff0c10003"
+    },
+    "rating": 1.924031007751938,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kokage",
+    "location": {
+      "display_address": "125 E 39th St, New York, NY 10016"
+    },
+    "rating": 5.966434108527132,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kokage (by Kajitsu)",
+    "location": {
+      "display_address": "125 E 39th St, New York, NY 10016, United States"
+    },
+    "rating": 1.689001937984496,
+    "average_score": 3.513505341664987,
+    "category": "japanese"
+  },
+  {
+    "name": "Kono",
+    "location": {
+      "display_address": "46 Bowery, New York, NY 10013"
+    },
+    "rating": 8.127228682170543,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "Kosaka",
+    "location": {
+      "display_address": "220 W 13th St, New York, NY 10011"
+    },
+    "rating": 5.403401162790698,
+    "average_score": 4.190949675324675,
+    "category": "japanese"
+  },
+  {
+    "name": "Kosaka omakase",
+    "location": {
+      "display_address": "220 W 13th St, New York, NY 10011"
+    },
+    "rating": 1.1251162790697675,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kotobuki",
+    "location": {
+      "display_address": "1530 Old Northern Blvd, Roslyn, NY 11576"
+    },
+    "rating": 0.35259689922480614,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Koya Omakase",
+    "location": {
+      "display_address": "74 5th Ave\uff0cNew York\uff0cNY"
+    },
+    "rating": 3.446124031007752,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Koyo",
+    "location": {
+      "display_address": "37-12 31st Ave, Queens, NY 11103"
+    },
+    "rating": 3.2763759689922485,
+    "average_score": 4.715459173000489,
+    "category": "japanese"
+  },
+  {
+    "name": "Kura",
+    "location": {
+      "display_address": "130 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 16.77800387596899,
+    "average_score": 4.624595028431474,
+    "category": "japanese"
+  },
+  {
+    "name": "kura omakase",
+    "location": {
+      "display_address": "130 St Marks Pl, New York, NY 10009"
+    },
+    "rating": 3.5691085271317826,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Kyuramen",
+    "location": {
+      "display_address": "133-42 37th Avenue, Queens, NY 11354"
+    },
+    "rating": 14.939602713178296,
+    "average_score": 4.232635199872618,
+    "category": "japanese"
+  },
+  {
+    "name": "Maki Kosaka",
+    "location": {
+      "display_address": "55 West 19th Street GROUND FLOOR, New York, NY 10011"
+    },
+    "rating": 0.9513178294573643,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Marufuku Ramen",
+    "location": {
+      "display_address": "92 2nd Ave, New York, NY 10003"
+    },
+    "rating": 10.178343023255815,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Masa",
+    "location": {
+      "display_address": "10 Columbus Cir, New York, NY 10019"
+    },
+    "rating": 9.588226744186047,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "Masuta Japanese Fusion",
+    "location": {
+      "display_address": "1712-1714 Sheepshead Bay Rd, Brooklyn, NY 11235, United States"
+    },
+    "rating": 3.4947674418604646,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "mifune NYC",
+    "location": {
+      "display_address": "245 E 44th St, New York, NY 10017"
+    },
+    "rating": 0.46593023255813953,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "MINE Craft Sushi",
+    "location": {
+      "display_address": "15 St Marks Pl, New York, NY 10003, United States"
+    },
+    "rating": 4.252228682170543,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "Mito",
+    "location": {
+      "display_address": "210-35 26th\uff0cQueens\uff0cny 11360"
+    },
+    "rating": 1.6838372093023257,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Mojo Omakase",
+    "location": {
+      "display_address": "177 9th Ave, New York, NY 10011"
+    },
+    "rating": 3.6841569767441857,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Momofuku Ko",
+    "location": {
+      "display_address": "8 Extra Pl, New York, NY 10003"
+    },
+    "rating": 0.2924418604651163,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Momofuku Noodle Bar",
+    "location": {
+      "display_address": "10 Columbus Cir, New York, NY 10019"
+    },
+    "rating": 3.6495348837209303,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Momokawa",
+    "location": {
+      "display_address": "1466 1st Ave., New York, NY 10075"
+    },
+    "rating": 8.327422480620154,
+    "average_score": 4.999999999999999,
+    "category": "japanese"
+  },
+  {
+    "name": "Monroes",
+    "location": {
+      "display_address": "36-42 Newark St, Hoboken, NJ 07030"
+    },
+    "rating": 2.6726744186046507,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Mt. Fuji Japanese Steakhouse",
+    "location": {
+      "display_address": "296 Old Route 17, Hillburn, NY 10931"
+    },
+    "rating": 2.7372577519379844,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "NAKAJI",
+    "location": {
+      "display_address": "48 Bowery, New York, NY 10013"
+    },
+    "rating": 43.21413759689923,
+    "average_score": 4.826315584424017,
+    "category": "japanese"
+  },
+  {
+    "name": "Nami Nori",
+    "location": {
+      "display_address": "33 Carmine St"
+    },
+    "rating": 3.612015503875969,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Nippon",
+    "location": {
+      "display_address": "155 E 52nd St, New York, NY 10022"
+    },
+    "rating": 2.969767441860465,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Noda",
+    "location": {
+      "display_address": "37 W 20th St, New York, NY 10011"
+    },
+    "rating": 11.145048449612403,
+    "average_score": 4.385622609710248,
+    "category": "japanese"
+  },
+  {
+    "name": "NONONO",
+    "location": {
+      "display_address": "118 Madison Ave, New York, NY 10016"
+    },
+    "rating": 12.140067829457365,
+    "average_score": 4.257154410215635,
+    "category": "japanese"
+  },
+  {
+    "name": "Norikoh",
+    "location": {
+      "display_address": "43 W 24th St, New York, NY 10010"
+    },
+    "rating": 2.8721899224806204,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Oceans",
+    "location": {
+      "display_address": "233 Park Ave S, New York, NY10003"
+    },
+    "rating": 2.922131782945736,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Odo",
+    "location": {
+      "display_address": "17 W 20th St, New York, NY 10011"
+    },
+    "rating": 18.80703488372093,
+    "average_score": 4.811545412401675,
+    "category": "japanese"
+  },
+  {
+    "name": "Oita NYC",
+    "location": {
+      "display_address": "833 Union St\uff0cBrooklyn"
+    },
+    "rating": 2.568604651162791,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Omakase by Korami",
+    "location": {
+      "display_address": "400 W 50th St, New York, NY 10019"
+    },
+    "rating": 1.5743410852713178,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Omakase room by Masser",
+    "location": {
+      "display_address": "321 Bleecker St\uff0cNew York\uff0cNY\uff0c10014"
+    },
+    "rating": 2.4050387596899228,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "Omakese Room by Mitsu",
+    "location": {
+      "display_address": "14 Christopher St Ground Floor, |, NY 10014"
+    },
+    "rating": 0.4028972868217054,
+    "average_score": 1.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Ootoya",
+    "location": {
+      "display_address": "41 E 11th St, New York, NY 10003"
+    },
+    "rating": 16.93732558139535,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Ootoya Time Square",
+    "location": {
+      "display_address": "141 W 41st St, New York, NY 10036"
+    },
+    "rating": 2.673546511627907,
+    "average_score": 3.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Osakana",
+    "location": {
+      "display_address": "42 1/2 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 17.635542635658915,
+    "average_score": 4.735199152862083,
+    "category": "japanese"
+  },
+  {
+    "name": "Osakana East Village",
+    "location": {
+      "display_address": "42 1/2 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 0.5180232558139535,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Oxalis",
+    "location": {
+      "display_address": "791 Washington Ave, Brooklyn, NY 11238"
+    },
+    "rating": 1.5912306201550386,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Prime Meat Rokko",
+    "location": {
+      "display_address": "783 9th Ave, New York, NY 10019"
+    },
+    "rating": 7.235920542635659,
+    "average_score": 4.5353873998627385,
+    "category": "japanese"
+  },
+  {
+    "name": "Rai Rai Ken",
+    "location": {
+      "display_address": "218 E 10th St, New York, NY 10003"
+    },
+    "rating": 2.7371511627906977,
+    "average_score": 3.0,
+    "category": "japanese"
+  },
+  {
+    "name": "raku",
+    "location": {
+      "display_address": "48 MacDougal St, New York, NY 10012"
+    },
+    "rating": 18.515387596899224,
+    "average_score": 4.805115966775387,
+    "category": "japanese"
+  },
+  {
+    "name": "Ramen Ishida",
+    "location": {
+      "display_address": "122 Ludlow St, New York, NY 10002"
+    },
+    "rating": 4.346220930232557,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Rice and Miso",
+    "location": {
+      "display_address": "134 Nevins St, Brooklyn, NY 11217"
+    },
+    "rating": 2.239263565891473,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sakagura",
+    "location": {
+      "display_address": "211 43rd St B1, New York, NY 10017"
+    },
+    "rating": 6.544728682170543,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "SakaMai",
+    "location": {
+      "display_address": "157 Ludlow St, New York, NY 10002"
+    },
+    "rating": 15.923333333333334,
+    "average_score": 4.078670035592135,
+    "category": "japanese"
+  },
+  {
+    "name": "Salt + Charcoal",
+    "location": {
+      "display_address": "171 Grand St, Brooklyn, NY 11249"
+    },
+    "rating": 0.7446899224806202,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Satsuki",
+    "location": {
+      "display_address": "114 W 47th St, New York, NY 10036"
+    },
+    "rating": 3.122596899224806,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Secchu Yokota",
+    "location": {
+      "display_address": "199 E 3rd St, New York"
+    },
+    "rating": 11.628091085271318,
+    "average_score": 4.904061724812934,
+    "category": "japanese"
+  },
+  {
+    "name": "SEKAI OMAKASE",
+    "location": {
+      "display_address": "96 WEST HOUSTON STREET, NEW YORK NY 10012"
+    },
+    "rating": 3.7377422480620153,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Senya",
+    "location": {
+      "display_address": "109 1st Ave., New York, NY 10003"
+    },
+    "rating": 17.753333333333334,
+    "average_score": 4.429962764156874,
+    "category": "japanese"
+  },
+  {
+    "name": "Shabu Tatsu",
+    "location": {
+      "display_address": "216 E 10th St, New York, NY 10003"
+    },
+    "rating": 0.5718604651162791,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Shabu-Tatsu",
+    "location": {
+      "display_address": "216 E 10th St, New York, NY 10003"
+    },
+    "rating": 6.096172480620155,
+    "average_score": 4.588268327547478,
+    "category": "japanese"
+  },
+  {
+    "name": "Shabushabu Mayumon",
+    "location": {
+      "display_address": "115 Division St, New York, NY 10002"
+    },
+    "rating": 11.589612403100775,
+    "average_score": 4.902800550928052,
+    "category": "japanese"
+  },
+  {
+    "name": "shiki omakase",
+    "location": {
+      "display_address": "71 w Houston st"
+    },
+    "rating": 12.552916666666668,
+    "average_score": 3.7859714648103013,
+    "category": "japanese"
+  },
+  {
+    "name": "Shiki Sushi",
+    "location": {
+      "display_address": "71 W Houston St, New York, NY 10012"
+    },
+    "rating": 1.9700387596899223,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Shinjuku Ramen",
+    "location": {
+      "display_address": "58 West 56th Street , New York, NY 10019"
+    },
+    "rating": 3.6686046511627906,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "SHINN EAST",
+    "location": {
+      "display_address": "119 E 7th St, New York, NY 10009"
+    },
+    "rating": 4.026744186046511,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Shion 69 Leonard Street",
+    "location": {
+      "display_address": "69 Leonard St, New York, NY 10013"
+    },
+    "rating": 1.0375193798449613,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Shion at 69 Leonard",
+    "location": {
+      "display_address": "69 Leonard St, New York, NY 10013"
+    },
+    "rating": 3.440387596899225,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Shuko",
+    "location": {
+      "display_address": "47 E 12th St, New York, NY 10003"
+    },
+    "rating": 0.5498062015503876,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Shushi Noz",
+    "location": {
+      "display_address": "181 E 78th St, New York, NY 10075"
+    },
+    "rating": 4.300484496124032,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sixty Three Clinton",
+    "location": {
+      "display_address": "63 Clinton St, New York, NY 10002"
+    },
+    "rating": 0.3817829457364341,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "SUGARFISH by sushi nozawa",
+    "location": {
+      "display_address": "152 E 53rd St, New York, NY 10022"
+    },
+    "rating": 4.7589147286821705,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Suki",
+    "location": {
+      "display_address": "111 1st Ave., New York, NY 10003"
+    },
+    "rating": 0.4666666666666667,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi 35 West",
+    "location": {
+      "display_address": "224 W 35th St 2nd fl, New York, NY 10001"
+    },
+    "rating": 2.714883720930233,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Amane",
+    "location": {
+      "display_address": "245 E 44th St, New York, NY 10017"
+    },
+    "rating": 12.181753875968992,
+    "average_score": 4.037450140345694,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Blossms",
+    "location": {
+      "display_address": "334 8th Ave, New York, NY 10001"
+    },
+    "rating": 2.282403100775194,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Blossom",
+    "location": {
+      "display_address": "334 8th Ave, New York, NY 10001, United States"
+    },
+    "rating": 6.587684108527132,
+    "average_score": 4.46628519623172,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Blossoms",
+    "location": {
+      "display_address": "334 8th Avenue, New York, NY, 10001"
+    },
+    "rating": 13.236870155038758,
+    "average_score": 4.539863742107012,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi By Bou",
+    "location": {
+      "display_address": "132 W 47TH ST, NEW YORK, NY 10036"
+    },
+    "rating": 3.366124031007752,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi by M",
+    "location": {
+      "display_address": "300E fifth Street, NY, 10003"
+    },
+    "rating": 5.911482558139535,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Ginza Onodera",
+    "location": {
+      "display_address": "461 5th Ave, New York, NY 10017"
+    },
+    "rating": 16.914467054263564,
+    "average_score": 4.0965025709142875,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Hatsune",
+    "location": {
+      "display_address": "50 Eldridege St\uff0cNew York\uff0cNY\uff0c10002"
+    },
+    "rating": 3.4166182170542636,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Ikumi",
+    "location": {
+      "display_address": "135 Sullivan St, New York, NY 10012"
+    },
+    "rating": 13.249341085271318,
+    "average_score": 4.252447595944518,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi ishikawa",
+    "location": {
+      "display_address": "419 E 74th St, New York, NY 10021"
+    },
+    "rating": 21.15842054263566,
+    "average_score": 4.369912223471917,
+    "category": "japanese"
+  },
+  {
+    "name": "SUSHI KAI",
+    "location": {
+      "display_address": "206 Main St, Fort Lee, NJ 07024"
+    },
+    "rating": 4.472054263565892,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Lab",
+    "location": {
+      "display_address": "132 W 47th St, New York, NY 10036"
+    },
+    "rating": 4.393362403100776,
+    "average_score": 3.5084888723805983,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi nakazawa",
+    "location": {
+      "display_address": "23 Commerce St"
+    },
+    "rating": 21.042906976744188,
+    "average_score": 4.468039404488557,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Nonaka",
+    "location": {
+      "display_address": "410 Amsterdam Ave,New York, NY 10024"
+    },
+    "rating": 2.5732945736434103,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Noz",
+    "location": {
+      "display_address": "181 E 78th St, New York, NY 10075"
+    },
+    "rating": 12.261017441860465,
+    "average_score": 4.713053356923363,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Yasuda",
+    "location": {
+      "display_address": "204 E 43rd St, New York, NY 10017"
+    },
+    "rating": 6.674660852713178,
+    "average_score": 3.5811580113024895,
+    "category": "japanese"
+  },
+  {
+    "name": "Sushi Zo Hanare",
+    "location": {
+      "display_address": "127 E 39th St, New York, NY 10016"
+    },
+    "rating": 2.9456976744186045,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "TabeTomo",
+    "location": {
+      "display_address": "131 Avenue A, New York, NY 10009"
+    },
+    "rating": 4.3194670542635665,
+    "average_score": 4.612150934806675,
+    "category": "japanese"
+  },
+  {
+    "name": "Tempura Matsui",
+    "location": {
+      "display_address": "222 E 39th St, New York, NY 10016"
+    },
+    "rating": 10.25375968992248,
+    "average_score": 3.559482923908546,
+    "category": "japanese"
+  },
+  {
+    "name": "The Chef's Table at Brooklyn Fare",
+    "location": {
+      "display_address": "431 W 37th St"
+    },
+    "rating": 5.504108527131783,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "The Chef\u2019s Table at Brooklyn Fare",
+    "location": {
+      "display_address": "431 W 37th St, New York, NY 10018"
+    },
+    "rating": 1.657751937984496,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "The Gallery",
+    "location": {
+      "display_address": "17 W 20th St, West unit, New York, NY 10011"
+    },
+    "rating": 1.5744186046511626,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "The Gallery by Odo",
+    "location": {
+      "display_address": "17 W 20th St, New York, NY 10011"
+    },
+    "rating": 3.158914728682171,
+    "average_score": 4.6711563261212214,
+    "category": "japanese"
+  },
+  {
+    "name": "thirteen water",
+    "location": {
+      "display_address": "208 E 7th St, New York, NY 10009"
+    },
+    "rating": 2.623565891472868,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Time Out Market",
+    "location": {
+      "display_address": "55 Water St, Brooklyn, NY 11201"
+    },
+    "rating": 0.39744186046511626,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "To Date",
+    "location": {
+      "display_address": "768 57th St, Brooklyn, NY 11220, United States"
+    },
+    "rating": 7.2281782945736435,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Tomo21 Sushi",
+    "location": {
+      "display_address": "172 Thompson St, New York, NY 10012"
+    },
+    "rating": 8.386540697674418,
+    "average_score": 4.039329618324886,
+    "category": "japanese"
+  },
+  {
+    "name": "Tomokase",
+    "location": {
+      "display_address": "131 Avenue A, New York, NY 10009"
+    },
+    "rating": 0.6165697674418604,
+    "average_score": 4.999999999999999,
+    "category": "japanese"
+  },
+  {
+    "name": "Tonchin New York",
+    "location": {
+      "display_address": "13 W 36th St, New York, NY 10018"
+    },
+    "rating": 4.493507751937985,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Torien",
+    "location": {
+      "display_address": "292 Elizabeth St, New York, NY 10012"
+    },
+    "rating": 9.238226744186047,
+    "average_score": 4.570222618499771,
+    "category": "japanese"
+  },
+  {
+    "name": "Torishin",
+    "location": {
+      "display_address": "362 W 53rd"
+    },
+    "rating": 2.7710755813953485,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Totto Ramen",
+    "location": {
+      "display_address": "464 W 51st St"
+    },
+    "rating": 4.305087209302326,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Totto Ramen Midtown East",
+    "location": {
+      "display_address": "248 E 52nd St, New York, NY 10022"
+    },
+    "rating": 4.561918604651163,
+    "average_score": 5.000000000000001,
+    "category": "japanese"
+  },
+  {
+    "name": "Tsukimi",
+    "location": {
+      "display_address": "238 E 10th St\uff0cNew York"
+    },
+    "rating": 26.082160852713177,
+    "average_score": 4.72734441546581,
+    "category": "japanese"
+  },
+  {
+    "name": "TsuruTonTan Midtown",
+    "location": {
+      "display_address": "64 W 48th St, New York, NY 10036"
+    },
+    "rating": 4.589186046511628,
+    "average_score": 4.92819013329726,
+    "category": "japanese"
+  },
+  {
+    "name": "Tsurutontan Udon Noodle Brasserie",
+    "location": {
+      "display_address": "21E E 16th St, New York, NY 10003"
+    },
+    "rating": 2.2677131782945734,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Uchu",
+    "location": {
+      "display_address": "217 Eldridge St New York, NY 10002"
+    },
+    "rating": 10.726482558139535,
+    "average_score": 4.831938715380083,
+    "category": "japanese"
+  },
+  {
+    "name": "Ume",
+    "location": {
+      "display_address": "237 Kent Ave, Brooklyn, NY 11249"
+    },
+    "rating": 20.529505813953488,
+    "average_score": 4.025569212820898,
+    "category": "japanese"
+  },
+  {
+    "name": "UMEDA",
+    "location": {
+      "display_address": "6623 Melrose Ave, Los Angeles, CA 90038"
+    },
+    "rating": 2.1621317829457363,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "USHIWAKAMARU",
+    "location": {
+      "display_address": "362 W 23rd St, New York, NY 10011"
+    },
+    "rating": 5.071085271317829,
+    "average_score": 4.366336551056675,
+    "category": "japanese"
+  },
+  {
+    "name": "Wasabi Sushi",
+    "location": {
+      "display_address": "2375 86th St, Brooklyn, NY 11214"
+    },
+    "rating": 2.1875581395348838,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Wokuni",
+    "location": {
+      "display_address": "327 Lexington Ave, New York, NY 10016"
+    },
+    "rating": 9.722926356589149,
+    "average_score": 4.642689912365935,
+    "category": "japanese"
+  },
+  {
+    "name": "Yakiniku Futago",
+    "location": {
+      "display_address": "37 W 17th St, New York, NY 10011"
+    },
+    "rating": 4.057286821705427,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Yakiniku Toraji",
+    "location": {
+      "display_address": "37 W 17th St, New York, NY 10011"
+    },
+    "rating": 0.6280620155038759,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Yakitori Taisho",
+    "location": {
+      "display_address": "5 St Marks Pl #1, New York, NY 10003"
+    },
+    "rating": 3.2744961240310078,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Yakitori Torishin",
+    "location": {
+      "display_address": "362 W 53rd St, New York, NY 10019, United States"
+    },
+    "rating": 2.29484496124031,
+    "average_score": 4.472756803716783,
+    "category": "japanese"
+  },
+  {
+    "name": "Yakitori Totto",
+    "location": {
+      "display_address": "251 W 55th St, New York, NY 10019"
+    },
+    "rating": 2.8624031007751936,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "yamagata",
+    "location": {
+      "display_address": "1636 Palisades Ave, Fort Lee, NJ 07024"
+    },
+    "rating": 2.810736434108527,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Yoi",
+    "location": {
+      "display_address": "133-22 39th Ave, Flushing, NY 11354"
+    },
+    "rating": 0.9867054263565892,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Yopparai",
+    "location": {
+      "display_address": "49 Clinto St, New York, NY 10002"
+    },
+    "rating": 4.431976744186047,
+    "average_score": 5.0,
+    "category": "japanese"
+  },
+  {
+    "name": "YOSHINO",
+    "location": {
+      "display_address": "342 Bowery, New York, NY 10012"
+    },
+    "rating": 76.33584302325582,
+    "average_score": 4.940899437914022,
+    "category": "japanese"
+  },
+  {
+    "name": "Yuzu Kitchen",
+    "location": {
+      "display_address": "37 W 43rd St, New York, NY 10036"
+    },
+    "rating": 3.2715503875968994,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "Zen Ramen & Sushi",
+    "location": {
+      "display_address": "150 W 36th St, New York, NY 10018"
+    },
+    "rating": 1.552596899224806,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "\u9047\u89c1",
+    "location": {
+      "display_address": "36-50 Main st, Flushing, NY 11354"
+    },
+    "rating": 4.41828488372093,
+    "average_score": 3.0,
+    "category": "japanese"
+  },
+  {
+    "name": "\u9676\u5473\u5c45",
+    "location": {
+      "display_address": "768 57th St, Brooklyn, NY 11220"
+    },
+    "rating": 3.933565891472868,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "\u9c7c\u00b7fish\u00b7OSAKANA",
+    "location": {
+      "display_address": "290 Graham Avenue\uff0cBrooklyn\uff0cNY\uff0c11211"
+    },
+    "rating": 3.0225968992248062,
+    "average_score": 4.0,
+    "category": "japanese"
+  },
+  {
+    "name": "8282 84 Stanton St, New York, NY 10002",
+    "location": {
+      "display_address": "Stanton St, New York, NY, USA"
+    },
+    "rating": 3.348235294117647,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Abiko Curry",
+    "location": {
+      "display_address": "2 W 32nd St, New York, NY 10001"
+    },
+    "rating": 3.8742647058823523,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Afternoon",
+    "location": {
+      "display_address": "34 St Marks Pl, New York, NY 10003\n\n148 N 7th St, Brooklyn, NY 11249\n\n39-21 Bell Blvd, Queens, NY 11361\n\n136-95 Roosevelt Ave Downtown Flushing, New York"
+    },
+    "rating": 6.880784313725489,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Ai Ki Ya",
+    "location": {
+      "display_address": "41 W 33rd St, New York, NY 10001, United States"
+    },
+    "rating": 1.0653676470588236,
+    "average_score": 3.0000000000000004,
+    "category": "korean"
+  },
+  {
+    "name": "Ai Ki Ya Japanese Restaurant",
+    "location": {
+      "display_address": "41 W 33rd St 1st floor, New York, NY 10001"
+    },
+    "rating": 52.544901960784316,
+    "average_score": 3.8821044320845584,
+    "category": "korean"
+  },
+  {
+    "name": "Ai Ki Ya Japanese Restaurant     ",
+    "location": {
+      "display_address": " 41 W 33rd St 1st floor, New York, NY 10001      "
+    },
+    "rating": 4.65656862745098,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Alimama",
+    "location": {
+      "display_address": NaN
+    },
+    "rating": 0.9774999999999999,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Antoya Korean BBQ",
+    "location": {
+      "display_address": "37 W 32nd St, New York, NY 10001"
+    },
+    "rating": 6.544877450980391,
+    "average_score": 3.5945858629369876,
+    "category": "korean"
+  },
+  {
+    "name": "Antoya Modern Korean BBQ",
+    "location": {
+      "display_address": "37 W 32nd St, New York, NY 10001"
+    },
+    "rating": 5.55875,
+    "average_score": 4.5654786468450865,
+    "category": "korean"
+  },
+  {
+    "name": "Arabica",
+    "location": {
+      "display_address": "260 Elizabeth St, New York, NY 10012"
+    },
+    "rating": 1.077990196078431,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "atoboy",
+    "location": {
+      "display_address": "Atoboy, 43 East 28th St, New York, NY 10016, USA"
+    },
+    "rating": 3.241911764705882,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Atomix",
+    "location": {
+      "display_address": "104 E 30th St, New York, NY 10016"
+    },
+    "rating": 2.508970588235294,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "atomix 104 E 30th St, New York, NY 10016",
+    "location": {
+      "display_address": NaN
+    },
+    "rating": 3.072009803921569,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Ayza Chocolate Bar",
+    "location": {
+      "display_address": " 11 W 31st St, New York, NY 10001"
+    },
+    "rating": 1.78578431372549,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Ayza Wine & Chocolate Bar",
+    "location": {
+      "display_address": "11 W 31st St, New York, NY 10001"
+    },
+    "rating": 6.336299019607842,
+    "average_score": 4.300941638384241,
+    "category": "korean"
+  },
+  {
+    "name": "Baekjeong NYC",
+    "location": {
+      "display_address": "1 E 32nd St, New York, NY 10016"
+    },
+    "rating": 22.239460784313724,
+    "average_score": 4.051663317704844,
+    "category": "korean"
+  },
+  {
+    "name": "Baekjeong NYC ",
+    "location": {
+      "display_address": "1 E 32nd St, New York, NY 10016"
+    },
+    "rating": 0.7968137254901961,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Bangia",
+    "location": {
+      "display_address": "11 E 32nd St, New York, NY 10016"
+    },
+    "rating": 9.861617647058823,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Bap Doduk",
+    "location": {
+      "display_address": " 446 Broad Ave, Palisades Park, NJ 07650"
+    },
+    "rating": 7.2887377450980395,
+    "average_score": 4.436892479615664,
+    "category": "korean"
+  },
+  {
+    "name": "Bar Moga",
+    "location": {
+      "display_address": "128 W Houston St, New York, NY 10012"
+    },
+    "rating": 4.708137254901961,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Barn Joo 35",
+    "location": {
+      "display_address": " 34 W 35th St, New York, NY 10001"
+    },
+    "rating": 2.2832352941176466,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Baro",
+    "location": {
+      "display_address": "34 W 32nd St, New York, NY 10001"
+    },
+    "rating": 1.1226960784313726,
+    "average_score": 2.0,
+    "category": "korean"
+  },
+  {
+    "name": "bb.q Chicken Ktown NYC",
+    "location": {
+      "display_address": "25 W 32nd St, New York, NY 10001"
+    },
+    "rating": 2.467303921568627,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "bb.q Olive Chicken",
+    "location": {
+      "display_address": "25 W 32nd St, New York, NY 10001"
+    },
+    "rating": 2.104705882352941,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "BBq chicken",
+    "location": {
+      "display_address": "25 W 32nd St, New York, NY 10001"
+    },
+    "rating": 1.488578431372549,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "bcd tofu house",
+    "location": {
+      "display_address": "BCD Tofu House, 5 West 32nd St, New York, NY 10001, USA"
+    },
+    "rating": 5.4417156862745095,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Best Bagel and Coffee",
+    "location": {
+      "display_address": "225 W 35th St A, New York, NY 10001"
+    },
+    "rating": 1.1634926470588236,
+    "average_score": 3.0000000000000004,
+    "category": "korean"
+  },
+  {
+    "name": "Bluestone Lane",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 3.5099509803921567,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Bonchon",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 4.205147058823529,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "boqueria",
+    "location": {
+      "display_address": "260 W 40th St, New York, NY 10018"
+    },
+    "rating": 2.798970588235294,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "CHILI \u7f8e\u9e97",
+    "location": {
+      "display_address": "13 E 37th St, New York, NY 10016"
+    },
+    "rating": 2.6480882352941175,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Cho Dang Gol",
+    "location": {
+      "display_address": "55 W 35th St, New York, NY 10001"
+    },
+    "rating": 26.454485294117646,
+    "average_score": 3.9829845177931906,
+    "category": "korean"
+  },
+  {
+    "name": "Cho Dang Gol ",
+    "location": {
+      "display_address": "55 W 35th St, New York, NY 10001"
+    },
+    "rating": 5.092892156862745,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "D'avant Bakery",
+    "location": {
+      "display_address": "449 Broad Ave #1, Palisades Park, NJ 07650"
+    },
+    "rating": 3.076127450980392,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Danji",
+    "location": {
+      "display_address": "346 W 52nd St, New York, NY 10019"
+    },
+    "rating": 0.2264705882352941,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Den Social Lounge",
+    "location": {
+      "display_address": "65 W 36th St., New York, NY 10018"
+    },
+    "rating": 1.1848529411764708,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Dim Sun place",
+    "location": {
+      "display_address": "33 W 33rd St, New York, NY 10001"
+    },
+    "rating": 1.6550490196078431,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Double chicken please",
+    "location": {
+      "display_address": "115 Allen St, New York, NY 10002"
+    },
+    "rating": 0.6426838235294118,
+    "average_score": 3.0,
+    "category": "korean"
+  },
+  {
+    "name": "Dumok BBQ",
+    "location": {
+      "display_address": "8 Henry Ave, Palisades Park, NJ 07650"
+    },
+    "rating": 1.2187254901960785,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "E-Mo",
+    "location": {
+      "display_address": "E-MO, West 32nd St, New York, NY 10001, USA"
+    },
+    "rating": 3.0659313725490196,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Felix Roasting Co.",
+    "location": {
+      "display_address": "104 Greene St, New York, NY 10012"
+    },
+    "rating": 3.4635294117647057,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Five Sense",
+    "location": {
+      "display_address": "9 W 32nd St, New York"
+    },
+    "rating": 1.779607843137255,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Five Senses",
+    "location": {
+      "display_address": "9 W 32nd St, New York, NY 10001"
+    },
+    "rating": 3.5284803921568626,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Five Senses ",
+    "location": {
+      "display_address": " 9 W 32nd St, New York, NY 10001"
+    },
+    "rating": 11.52813725490196,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Friendship BBQ",
+    "location": {
+      "display_address": "136-76 39th Ave, Queens, NY 11354"
+    },
+    "rating": 0.8107843137254903,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Fuku",
+    "location": {
+      "display_address": "30 Rockefeller Plaza, New York, NY 10112"
+    },
+    "rating": 1.879705882352941,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "location": {
+      "display_address": "41 W 42nd St, New York, NY 10036"
+    },
+    "rating": 2.005808823529412,
+    "average_score": 3.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gamja Tang Tang",
+    "location": {
+      "display_address": "408 Main St, Fort Lee, NJ 07024"
+    },
+    "rating": 6.391862745098039,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gammeeok",
+    "location": {
+      "display_address": "9 W 32nd St 2nd floor, New York, NY 10001"
+    },
+    "rating": 7.4282352941176475,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gaonnuri",
+    "location": {
+      "display_address": "1250 Broadway 39th Floor, New York, NY 10001"
+    },
+    "rating": 3.2297058823529414,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Geo Si Gi",
+    "location": {
+      "display_address": "152-28 Northern Blvd,Flushing,NY11354"
+    },
+    "rating": 1.4495098039215686,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gopchang",
+    "location": {
+      "display_address": "312 Fifth Ave, FL 2, New York, NY 10001"
+    },
+    "rating": 0.9006862745098039,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gopchang Story",
+    "location": {
+      "display_address": "312 5th Ave 2nd floor, New York, NY 10001"
+    },
+    "rating": 10.09718137254902,
+    "average_score": 4.203638701250996,
+    "category": "korean"
+  },
+  {
+    "name": "Gopchang Story BBQ",
+    "location": {
+      "display_address": "312 5th Ave 2nd floor, New York, NY 10001"
+    },
+    "rating": 2.269056372549019,
+    "average_score": 5.0,
+    "category": "korean"
+  },
+  {
+    "name": "Gopchang Story BBQ - Manhattan",
+    "location": {
+      "display_address": "312 5th Ave 2nd floor, New York, NY 10001"
+    },
+    "rating": 1.9235294117647057,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Grace Street",
+    "location": {
+      "display_address": "17 W 32nd St, New York, NY 10001"
+    },
+    "rating": 2.223333333333333,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Grace Street Coffee & Desserts",
+    "location": {
+      "display_address": "17 W 32nd St, New York, NY 10001"
+    },
+    "rating": 3.3394117647058823,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Han-Joo Chik Naeng Myun & BBQ",
+    "location": {
+      "display_address": "41-06 149th Pl, Flushing, NY 11355"
+    },
+    "rating": 1.088186274509804,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Hanam BBQ",
+    "location": {
+      "display_address": "445 Grand Ave, Palisades Park, NJ 07650"
+    },
+    "rating": 1.5071078431372549,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Hangawi",
+    "location": {
+      "display_address": "12 E 32nd St, New York, NY 10016"
+    },
+    "rating": 0.2272549019607843,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Hansang",
+    "location": {
+      "display_address": "520 Bergen Blvd, Palisades Park, NJ 07650"
+    },
+    "rating": 2.054117647058823,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Harbs",
+    "location": {
+      "display_address": "198 9th Ave, New York, NY 10011"
+    },
+    "rating": 1.3729411764705883,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Her Name is Han",
+    "location": {
+      "display_address": "17 E 31st St, New York, NY 10016"
+    },
+    "rating": 15.213982843137256,
+    "average_score": 3.891068596538517,
+    "category": "korean"
+  },
+  {
+    "name": "Hong Chun Cheon",
+    "location": {
+      "display_address": "2 W 32nd St, New York, NY 10001"
+    },
+    "rating": 3.9401470588235297,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Hong Chun Cheon Dak Galbi",
+    "location": {
+      "display_address": "2 W 32nd St, New York, NY 10001"
+    },
+    "rating": 10.724546568627451,
+    "average_score": 3.823534808937513,
+    "category": "korean"
+  },
+  {
+    "name": "hortus nyc",
+    "location": {
+      "display_address": "271 5th Ave, New York, NY 10016"
+    },
+    "rating": 7.264803921568628,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "hutaoli\u80e1\u6843\u91cc",
+    "location": {
+      "display_address": "42 W 33rd St, New York, NY 10001"
+    },
+    "rating": 2.7020098039215688,
+    "average_score": 3.175309993231275,
+    "category": "korean"
+  },
+  {
+    "name": "HYUN",
+    "location": {
+      "display_address": "10 E 33rd St, New York, NY 10016"
+    },
+    "rating": 6.416948529411765,
+    "average_score": 3.211563820587207,
+    "category": "korean"
+  },
+  {
+    "name": "Ichiran",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 6.262352941176471,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "ikazaya mew",
+    "location": {
+      "display_address": "53 W 35th St, New York, NY 10001"
+    },
+    "rating": 3.6146078431372546,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Izakaya Mew",
+    "location": {
+      "display_address": "53 W 35th St, New York, NY 10001, United States"
+    },
+    "rating": 12.885845588235293,
+    "average_score": 3.7656995920881573,
+    "category": "korean"
+  },
+  {
+    "name": "Jeju Noodle Bar",
+    "location": {
+      "display_address": "679 Greenwich St, New York, NY 10014"
+    },
+    "rating": 2.5648039215686276,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "jeju noodle bar 679 Greenwich St, New York, NY 10014\\",
+    "location": {
+      "display_address": "679 Greenwich St, New York, NY, USA"
+    },
+    "rating": 3.271813725490196,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jongro",
+    "location": {
+      "display_address": "22 W 32nd St 2nd floor, New York, NY 10001"
+    },
+    "rating": 6.487598039215687,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jongro ",
+    "location": {
+      "display_address": "22 W 32nd St 2nd floor, New York, NY 10001"
+    },
+    "rating": 3.5464705882352945,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jongro BBQ",
+    "location": {
+      "display_address": "22 W 32nd St 2nd floor, New York, NY 10001"
+    },
+    "rating": 4.1146078431372555,
+    "average_score": 4.2786761988505315,
+    "category": "korean"
+  },
+  {
+    "name": "Jongro Gopchang",
+    "location": {
+      "display_address": "22 W 32nd St 5th floor, New York, NY 10001"
+    },
+    "rating": 3.8623529411764705,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Joomak Banjum",
+    "location": {
+      "display_address": "312 5th Ave, New York, NY 10001"
+    },
+    "rating": 1.047058823529412,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "JUA",
+    "location": {
+      "display_address": "36 E 22nd St, New York, NY 10010"
+    },
+    "rating": 2.1361764705882353,
+    "average_score": 3.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jua ",
+    "location": {
+      "display_address": "36 E 22nd St, New York, NY 10010"
+    },
+    "rating": 3.4789215686274506,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "jua 36 E 22nd St, New York, NY 10010",
+    "location": {
+      "display_address": "E 22nd St, New York, NY, USA"
+    },
+    "rating": 3.1402450980392156,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jungsik",
+    "location": {
+      "display_address": "2 Harrison St, New York, NY 10013"
+    },
+    "rating": 1.4020588235294116,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jungsik ",
+    "location": {
+      "display_address": "2 Harrison St, New York, NY 10013"
+    },
+    "rating": 3.5325,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Jungsik 2 Harrison St, New York, NY 10013",
+    "location": {
+      "display_address": "2 Harrison St, New York, NY, USA"
+    },
+    "rating": 3.3755392156862745,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Kalbi house Korean BBQ",
+    "location": {
+      "display_address": "291 Central Ave, White Plains, NY 10606"
+    },
+    "rating": 1.7466911764705884,
+    "average_score": 5.0,
+    "category": "korean"
+  },
+  {
+    "name": "Kang Ho Dong Baekjeong",
+    "location": {
+      "display_address": "1 E 32ND ST. New York. NY. 10016"
+    },
+    "rating": 3.422781862745098,
+    "average_score": 4.385425825901269,
+    "category": "korean"
+  },
+  {
+    "name": "Keki Modern Cakes",
+    "location": {
+      "display_address": "315 5th Ave, New York, NY 10016"
+    },
+    "rating": 16.191470588235294,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "kimura",
+    "location": {
+      "display_address": "31 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 0.7004166666666667,
+    "average_score": 2.0,
+    "category": "korean"
+  },
+  {
+    "name": "Kimura ",
+    "location": {
+      "display_address": "31 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 2.2411764705882353,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Kochi",
+    "location": {
+      "display_address": "Kochi Prefecture, Japan"
+    },
+    "rating": 1.1432352941176471,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "kochi 652 10th Ave, New York, NY 10036",
+    "location": {
+      "display_address": "10th Ave, New York, NY, USA"
+    },
+    "rating": 3.169117647058824,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Kunjip",
+    "location": {
+      "display_address": " 32 W 32nd St, New York, NY 10001"
+    },
+    "rating": 3.011421568627451,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "La Colombe Coffee",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 3.5437254901960786,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Lamalo",
+    "location": {
+      "display_address": "11 E 31st St, Manhattan, New York"
+    },
+    "rating": 3.0853431372549016,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "lattanzi cucina italiana",
+    "location": {
+      "display_address": "361 W 46th St, New York, NY 10036"
+    },
+    "rating": 1.530343137254902,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Let's Meat",
+    "location": {
+      "display_address": "307 5th Ave, New York, NY 10016"
+    },
+    "rating": 3.1850490196078427,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Little Alley \u5f04\u5802",
+    "location": {
+      "display_address": "550 Third Ave, Ktown, New York"
+    },
+    "rating": 3.3145588235294117,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "littlemad 110 Madison Ave, New York, NY 10016",
+    "location": {
+      "display_address": "110 Madison Ave, New York, NY, USA"
+    },
+    "rating": 3.3218627450980387,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Luthun",
+    "location": {
+      "display_address": "Luthun"
+    },
+    "rating": 2.09375,
+    "average_score": 2.9999999999999996,
+    "category": "korean"
+  },
+  {
+    "name": "machi machi",
+    "location": {
+      "display_address": "33 W 32nd St, New York, NY 10001"
+    },
+    "rating": 2.0259803921568627,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Machi Machi ",
+    "location": {
+      "display_address": "33 W 32nd St, New York, NY 10001"
+    },
+    "rating": 2.5573039215686273,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "machimachi",
+    "location": {
+      "display_address": "33 W 32nd St, New York, NY 10001"
+    },
+    "rating": 1.5966176470588236,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Madame Vo ",
+    "location": {
+      "display_address": "212 E 10th St, New York, NY 10003"
+    },
+    "rating": 2.48671568627451,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Maman",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 3.486470588235294,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Milk & Cream Cereal Bar",
+    "location": {
+      "display_address": "159 Mott St, New York, NY 10013"
+    },
+    "rating": 2.106029411764706,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Miss Korea BBQ",
+    "location": {
+      "display_address": "10 W 32nd St, New York, NY 10001"
+    },
+    "rating": 0.5990686274509804,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "MO il Gelato",
+    "location": {
+      "display_address": "178 Mulberry St, New York, NY 10012"
+    },
+    "rating": 2.4520098039215688,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Mochi Mochi Donut",
+    "location": {
+      "display_address": NaN
+    },
+    "rating": 1.1279901960784315,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "mokyo",
+    "location": {
+      "display_address": "Mokyo, 109 Saint Mark's Pl, New York, NY 10009, USA"
+    },
+    "rating": 3.2052450980392155,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "MOLOS",
+    "location": {
+      "display_address": "1 County Rd 682, Weehawken, NJ 07086"
+    },
+    "rating": 2.1793382352941175,
+    "average_score": 3.0,
+    "category": "korean"
+  },
+  {
+    "name": "MUI",
+    "location": {
+      "display_address": "10 W 32nd St #5FL, New York, NY 10001"
+    },
+    "rating": 6.067450980392157,
+    "average_score": 3.914546403327061,
+    "category": "korean"
+  },
+  {
+    "name": "Myung San",
+    "location": {
+      "display_address": "162-21 Depot Rd, Queens, NY 11358"
+    },
+    "rating": 2.914313725490196,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Nai Tapas",
+    "location": {
+      "display_address": "84 2nd Ave, New York, NY 10003"
+    },
+    "rating": 2.0535661764705884,
+    "average_score": 3.0,
+    "category": "korean"
+  },
+  {
+    "name": "Namhan Sansung Korean Restaurant",
+    "location": {
+      "display_address": "500 10th St, Palisades Park, NJ 07650"
+    },
+    "rating": 5.720551470588235,
+    "average_score": 4.396279902053117,
+    "category": "korean"
+  },
+  {
+    "name": "NAMHANSANSUNG KOREAN RESTAURANT",
+    "location": {
+      "display_address": "500 10th St, Palisades Park, NJ 07650"
+    },
+    "rating": 3.010343137254902,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "new wonjo",
+    "location": {
+      "display_address": " 23 W 32nd St, New York, NY 10001"
+    },
+    "rating": 1.355245098039216,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Next Move Cafe",
+    "location": {
+      "display_address": "6 Bay 23rd St, Brooklyn, NY 11214"
+    },
+    "rating": 2.897843137254902,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "NoNoNo",
+    "location": {
+      "display_address": "118 Madison Ave, New York, NY 10016"
+    },
+    "rating": 7.554509803921569,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Obaltan",
+    "location": {
+      "display_address": "799 Abbot Blvd, Fort Lee, NJ 07024"
+    },
+    "rating": 8.256678921568627,
+    "average_score": 4.999999999999999,
+    "category": "korean"
+  },
+  {
+    "name": "oiji",
+    "location": {
+      "display_address": "Oiji, 119 1st Ave, New York, NY 10003, USA"
+    },
+    "rating": 6.246556372549019,
+    "average_score": 3.5575276209353777,
+    "category": "korean"
+  },
+  {
+    "name": "Oiji ",
+    "location": {
+      "display_address": "119 1st Ave., New York, NY 10003"
+    },
+    "rating": 3.456960784313725,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Only One\u8336\u8a00\u871c\u8bed",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 1.231421568627451,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Osamil",
+    "location": {
+      "display_address": "5 W 31st St, New York, NY 10001"
+    },
+    "rating": 32.12199754901961,
+    "average_score": 4.3068529299163165,
+    "category": "korean"
+  },
+  {
+    "name": "Osamil ",
+    "location": {
+      "display_address": " 5 W 31st St, New York, NY 10001"
+    },
+    "rating": 3.139705882352941,
+    "average_score": 3.532623683194529,
+    "category": "korean"
+  },
+  {
+    "name": "Paper Coffee",
+    "location": {
+      "display_address": "44 W 29th St, New York, NY 10001"
+    },
+    "rating": 3.43921568627451,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Pelicana Chicken",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 1.0937254901960785,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "piccola cucina ",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 2.835686274509804,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Pocha 32",
+    "location": {
+      "display_address": "15 W 32nd St 2nd floor, New York, NY 10001"
+    },
+    "rating": 6.774754901960784,
+    "average_score": 3.718161701898696,
+    "category": "korean"
+  },
+  {
+    "name": "Pocha32",
+    "location": {
+      "display_address": "15 W 32nd St 2nd floor, New York, NY 10001"
+    },
+    "rating": 2.4844117647058823,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Princess street pizza",
+    "location": {
+      "display_address": "27 Prince St A, New York, NY 10012"
+    },
+    "rating": 1.7007352941176468,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Random Access",
+    "location": {
+      "display_address": "138 W 32nd St, New York, NY 10001"
+    },
+    "rating": 6.238039215686275,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Real Kung Fu Little Steamed Buns Ramen",
+    "location": {
+      "display_address": "811 8th Ave, New York, NY 10019"
+    },
+    "rating": 0.6130392156862744,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Ribs No.7",
+    "location": {
+      "display_address": "32 W 33rd St, New York, NY 10001"
+    },
+    "rating": 1.642892156862745,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Rocco Steakhouse",
+    "location": {
+      "display_address": "72 Madison Ave, New York, NY 10016"
+    },
+    "rating": 2.8526470588235293,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Ruby\u2018s Cafe",
+    "location": {
+      "display_address": "219 Mulberry St A, New York, NY 10012"
+    },
+    "rating": 1.2436274509803922,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "sake bar hagi",
+    "location": {
+      "display_address": "245 W 51st St, New York, NY 10019"
+    },
+    "rating": 1.683235294117647,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Samwon Garden Korean BBQ",
+    "location": {
+      "display_address": "37 W 32nd St, New York, NY 10001"
+    },
+    "rating": 5.823235294117648,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Senya ",
+    "location": {
+      "display_address": "109 1st Ave., New York, NY 10003"
+    },
+    "rating": 3.4473529411764705,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Shinn east",
+    "location": {
+      "display_address": "119 E 7th St, New York, NY 10009"
+    },
+    "rating": 3.597843137254902,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Skirt Steak",
+    "location": {
+      "display_address": "835 6th Ave, New York, NY 10001"
+    },
+    "rating": 3.238774509803922,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "So Kong Dong",
+    "location": {
+      "display_address": "130 Main St, Fort Lee, NJ 07024"
+    },
+    "rating": 1.298186274509804,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Sodam",
+    "location": {
+      "display_address": "156-50 Northern Blvd, Flushing, NY 11354"
+    },
+    "rating": 2.021372549019608,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Soft Swerve",
+    "location": {
+      "display_address": " 379 3rd Ave, New York, NY 10016"
+    },
+    "rating": 2.3891176470588236,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Soju Haus",
+    "location": {
+      "display_address": "315 5th Ave,FL 2, New York, NY 10016"
+    },
+    "rating": 21.68473039215686,
+    "average_score": 4.1291621842993855,
+    "category": "korean"
+  },
+  {
+    "name": "Soju Haus ",
+    "location": {
+      "display_address": "315 5th Ave fl 2, New York, NY 10016"
+    },
+    "rating": 1.0732843137254902,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Somtum Der",
+    "location": {
+      "display_address": "85 Avenue A, New York, NY 10009"
+    },
+    "rating": 2.012205882352941,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Soogil",
+    "location": {
+      "display_address": "108 E 4th St, New York, NY 10003"
+    },
+    "rating": 0.9073039215686274,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "SoosanghanPocha",
+    "location": {
+      "display_address": "243 Broad Ave, Palisades Park, NJ 07650"
+    },
+    "rating": 0.6033823529411765,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Soram",
+    "location": {
+      "display_address": "321 Broad Ave Ste #9, Ridgefield, NJ 07657"
+    },
+    "rating": 3.2350000000000003,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Spicy Galbi Jjim",
+    "location": {
+      "display_address": "55 W 35th St, New York, NY 10001"
+    },
+    "rating": 1.8404411764705884,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Stumptown Coffee",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 3.5581862745098034,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Sugar Miss Tea & Coffee",
+    "location": {
+      "display_address": "5309 7th Ave, Brooklyn, NY 11220"
+    },
+    "rating": 1.5397549019607844,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Sun-chan",
+    "location": {
+      "display_address": "2707 Broadway, New York, NY 10025"
+    },
+    "rating": 2.2625980392156864,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Sushi Blossom",
+    "location": {
+      "display_address": "334 8th Ave, New York, NY 10001"
+    },
+    "rating": 2.8272058823529416,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Sushi Blossoms",
+    "location": {
+      "display_address": "334 8th Avenue, New York, NY, 10001"
+    },
+    "rating": 3.656311274509804,
+    "average_score": 5.0,
+    "category": "korean"
+  },
+  {
+    "name": "Szechuan mountain house",
+    "location": {
+      "display_address": "23 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 0.7554166666666667,
+    "average_score": 2.0,
+    "category": "korean"
+  },
+  {
+    "name": "Taiyaki NYC",
+    "location": {
+      "display_address": "119 Baxter St, New York, NY 10013"
+    },
+    "rating": 3.621078431372549,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Take 31",
+    "location": {
+      "display_address": "15 E 31st St, New York, NY 10016"
+    },
+    "rating": 18.27488970588235,
+    "average_score": 4.263754267382614,
+    "category": "korean"
+  },
+  {
+    "name": "take31",
+    "location": {
+      "display_address": "Take31, 15 East 31st St, New York, NY 10016, USA"
+    },
+    "rating": 4.3583823529411765,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Taste 1080",
+    "location": {
+      "display_address": " 1296 Palisade Ave, Fort Lee, NJ 07024"
+    },
+    "rating": 4.062794117647059,
+    "average_score": 4.211218942126925,
+    "category": "korean"
+  },
+  {
+    "name": "Taste1080",
+    "location": {
+      "display_address": "1296 Palisade Ave, Fort Lee, NJ 07024"
+    },
+    "rating": 3.188725490196078,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "The Coop ",
+    "location": {
+      "display_address": "133-42 39th Ave #103, Queens, NY 11354"
+    },
+    "rating": 1.3670588235294119,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "the fulton",
+    "location": {
+      "display_address": "89 South St, New York, NY 10038"
+    },
+    "rating": 1.8041666666666665,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "the gallery by odo",
+    "location": {
+      "display_address": "17 W 20th St, New York, NY 10011"
+    },
+    "rating": 1.9205392156862744,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "The Maze",
+    "location": {
+      "display_address": "32 W 32nd St Floor 3, New York, NY 10001"
+    },
+    "rating": 1.077549019607843,
+    "average_score": 2.0,
+    "category": "korean"
+  },
+  {
+    "name": "Tiger Sugar",
+    "location": {
+      "display_address": "42 W 32nd St, Storefront, c/o 1250 Broadway, New York City, NY 10001"
+    },
+    "rating": 1.4920588235294119,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Tomi Jazz",
+    "location": {
+      "display_address": "239 E 53rd St, New York, NY 10022"
+    },
+    "rating": 1.445392156862745,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "TONCHIN NYC",
+    "location": {
+      "display_address": "13 W 36th St, New York, NY 10018"
+    },
+    "rating": 4.621813725490196,
+    "average_score": 5.0,
+    "category": "korean"
+  },
+  {
+    "name": "Tous Les Jours",
+    "location": {
+      "display_address": "31 W 32nd St, New York, NY 10001"
+    },
+    "rating": 2.328627450980392,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Tri Dim Shanghai West",
+    "location": {
+      "display_address": "467 Columbus Ave, New York, NY 10024"
+    },
+    "rating": 1.5690196078431373,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Tsaocaa\u671d\u8336",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 1.0518137254901962,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Two Hands Seoul Fresh Corn Dogs",
+    "location": {
+      "display_address": "250 Mott St, New York, NY 10012"
+    },
+    "rating": 2.773872549019608,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Udon Lab",
+    "location": {
+      "display_address": "43W 32nd St\uff0cNew York, NY 10001"
+    },
+    "rating": 0.611421568627451,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Variety Coffee",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 3.5299509803921563,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Woorijip",
+    "location": {
+      "display_address": "12 W 32nd St, New York, NY 10001"
+    },
+    "rating": 8.625686274509803,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Yakiniku Futago",
+    "location": {
+      "display_address": "37 W 17th St, New York, NY 10011"
+    },
+    "rating": 0.30450980392156857,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Yakiniku Toraji",
+    "location": {
+      "display_address": "217 E 43rd St Fl 1, New York, NY 10017"
+    },
+    "rating": 1.5968627450980395,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "YiFang\u4e00\u82b3",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 1.3862745098039215,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Yoon Haeundae Galbi",
+    "location": {
+      "display_address": "8 W 36th St., New York, NY 10018"
+    },
+    "rating": 2.952892156862745,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Yuzu Kitchen",
+    "location": {
+      "display_address": "37 W 43rd St, New York, NY 10036"
+    },
+    "rating": 1.7270588235294118,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "Ziggle",
+    "location": {
+      "display_address": "37-04 Queens Blvd, Queens, NY 11101"
+    },
+    "rating": 0.5061764705882352,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u4e27\u8336",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 2.4906372549019604,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u591a\u7c73\u9178\u5976\u5c4b",
+    "location": {
+      "display_address": "39-07 Prince St #1J, Queens, NY 11354"
+    },
+    "rating": 2.700441176470588,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u5bcc\u7476",
+    "location": {
+      "display_address": "266 Canal St, New York, NY 10013"
+    },
+    "rating": 1.4871568627450982,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u5de8\u661f\u57cektv",
+    "location": {
+      "display_address": "6117 20th Ave, Brooklyn, NY 11204"
+    },
+    "rating": 2.8605392156862743,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u5f04\u5802 ",
+    "location": {
+      "display_address": "550 3rd Ave, New York, NY 10016"
+    },
+    "rating": 1.9215196078431371,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u660e\u65fa\u98df\u5802",
+    "location": {
+      "display_address": "28 Canal St, New York, NY 10002"
+    },
+    "rating": 2.3011274509803923,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u6625\u9633\u8336\u4e8b",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 2.5668137254901957,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u6696\u5fc3\u996d\u56e2",
+    "location": {
+      "display_address": "67A Eldridge St, New York, NY 10002"
+    },
+    "rating": 2.6941176470588237,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u6d59\u91cc",
+    "location": {
+      "display_address": "19 St Marks Pl, New York, NY 10003"
+    },
+    "rating": 3.5657843137254903,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u6dfb\u597d\u5473",
+    "location": {
+      "display_address": "85 4th Ave, New York, NY 10003"
+    },
+    "rating": 0.6917156862745097,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u6e14\u706b",
+    "location": {
+      "display_address": "136-55 37th Avenue, Queens, NY 11354"
+    },
+    "rating": 2.764558823529412,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u6e2f\u98df\u5802",
+    "location": {
+      "display_address": "65 Bayard St, New York, NY 10013"
+    },
+    "rating": 2.9767647058823528,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u714e\u997c\u4fa0",
+    "location": {
+      "display_address": "11 W 32nd St #4 , New York, NY 10001"
+    },
+    "rating": 2.4593137254901962,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u767e\u5473\u5170\u5dde\u62c9\u9762",
+    "location": {
+      "display_address": "107 E Broadway, New York, NY 10002"
+    },
+    "rating": 2.748186274509804,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u8001\u5988\u9ebb\u8fa3\u9999\u9505",
+    "location": {
+      "display_address": "58 E 8th St, New York, NY 10003"
+    },
+    "rating": 2.6258823529411766,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u8001\u864e\u5802",
+    "location": {
+      "display_address": "\u8fde\u9501"
+    },
+    "rating": 2.40843137254902,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u897f\u5e9c\u5c0f\u5403",
+    "location": {
+      "display_address": "84 E 10th St, New York, NY 10003"
+    },
+    "rating": 2.546029411764706,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u89c9\u4e16\u53cc\u6912",
+    "location": {
+      "display_address": "135-5 Roosevelt Ave, Queens, NY 11354"
+    },
+    "rating": 2.6299019607843137,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u8d30\u706b\u9505",
+    "location": {
+      "display_address": "11 W 36th St., New York, NY 10018"
+    },
+    "rating": 20.60563725490196,
+    "average_score": 4.011174090614146,
+    "category": "korean"
+  },
+  {
+    "name": "\u8d30\u706b\u9505 ER HOT POT",
+    "location": {
+      "display_address": "11 W 36th St., New York, NY 10018"
+    },
+    "rating": 3.1611764705882353,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u8fa3\u6d2a\u5e9c\u9ebb\u8fa3\u70eb",
+    "location": {
+      "display_address": "45-15 162nd St, Queens, NY 11358"
+    },
+    "rating": 2.8137745098039217,
+    "average_score": 4.0,
+    "category": "korean"
+  },
+  {
+    "name": "\u91cd\u5e86\u8001\u7076",
+    "location": {
+      "display_address": " 37-04 Prince St, Flushing, NY 11354"
+    },
+    "rating": 2.941323529411765,
+    "average_score": 4.0,
+    "category": "korean"
+  }
+]
